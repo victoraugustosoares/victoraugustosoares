@@ -1,4 +1,4 @@
 # Irricontrol 🌳
 ## 👋 Hello World, I’m @victoraugustosoares
 
-Sou Desenvolvedor Backend Jr. e estou à disposição 😉
+Sou Desenvolvedor Backend e estou à disposição 😉
